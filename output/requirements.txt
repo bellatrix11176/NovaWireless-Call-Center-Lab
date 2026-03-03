@@ -1,0 +1,17 @@
+# NovaWireless Call Center Lab
+# Master requirements — covers all pipelines
+#
+#   NovaFabric Validation Checklist (governance pipeline)
+#   Trust Signal Health Pipeline
+#
+# Install:  pip install -r requirements.txt
+
+# ── Core data ──
+numpy>=1.24,<3.0
+pandas>=2.0,<4.0
+
+# ── Visualization ──
+matplotlib>=3.7,<4.0
+
+# ── Modeling (evidence pack: logistic regression, bootstrap CI) ──
+scikit-learn>=1.3,<2.0
