@@ -1,0 +1,4 @@
+condition,n_reps,n_calls,proxy_fcr_mean,true_fcr_mean,goodhart_gap_pp,repeat_30d_mean,repeat_31_60d_mean,churn_mean,burnout_mean,compliance_mean,gaming_share,loyalty_miss_share
+baseline,250,5000,0.8758,0.368,50.8,0.1537,0.2732,0.0728,0.3059,0.3121,0.4304,0.1484
+high_pressure,250,5000,0.9103,0.2045,70.6,0.2402,0.5658,0.1504,0.4695,0.3742,0.7368,0.1908
+Q4_monthly_series,250,5000,0.917,0.2012,71.6,0.242,0.5954,0.1596,0.5032,0.393,0.7448,0.2358

@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-03-08T15:14:10",
+  "n": 250,
+  "seed": 42,
+  "site": "NovaWireless",
+  "queue_name": "General Support",
+  "used_files": [
+    "kaggle_employee_persona_priors.csv",
+    "fcc_cgb_consumer_complaints__rep_specialization_priors.csv",
+    "kaggle_call_center_weekday_pressure.csv",
+    "ibm_telco_segment_pressure.csv"
+  ],
+  "rules": {
+    "single_queue": true,
+    "single_department": "Call Center",
+    "single_role": "Customer Service Representative",
+    "no_transfers": true,
+    "skills_as_strengths": true,
+    "network_service_means": "tech_support"
+  }
+}
